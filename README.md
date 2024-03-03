@@ -2,10 +2,7 @@
 
 
 1. bun install
-2. bun run dev
-
-check in app.vue => error
-
-delete components dir => no error :D
+2. check in app.vue => error
+3. delete components dir => no error, vscode is confused and marked template as `any`
 
 ![alt text](https://i.imgur.com/IaByDIn.png)
